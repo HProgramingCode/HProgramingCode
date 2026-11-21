@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+[![Boot.dev Build a BookBot in Python certificate](https://api.boot.dev/v1/static/certificate/59e7ee29-03e7-4e31-9d2b-fa3f8db3487f)](https://www.boot.dev/certificates/59e7ee29-03e7-4e31-9d2b-fa3f8db3487f)
 
 <!--
 **HProgramingCode/HProgramingCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
